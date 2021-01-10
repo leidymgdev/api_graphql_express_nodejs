@@ -10,6 +10,7 @@ In this API you can allow to manage clients.
 - Express
 - dotenv (for managing environment variables)
 - express-graphql and graphql
+- nodemon
 
 # Getting Started
 
@@ -42,7 +43,8 @@ $ yarn install
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-graphql": "^0.12.0",
-    "graphql": "^15.4.0"
+    "graphql": "^15.4.0",
+    "nodemon": "^2.0.7"
   }
 ```
 
