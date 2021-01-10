@@ -50,7 +50,6 @@ $ yarn install
 ## Initialize the server
 
 ```bash
-cd server
 npm start
 ```
 
