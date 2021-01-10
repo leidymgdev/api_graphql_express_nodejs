@@ -8,7 +8,6 @@ In this API you can allow to manage clients.
 
 - Node.js
 - Express
-- MySQL
 - dotenv (for managing environment variables)
 - express-graphql and graphql
 
