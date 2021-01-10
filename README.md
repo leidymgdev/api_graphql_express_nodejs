@@ -1,6 +1,6 @@
 # api_graphql_express_nodejs
 
-My first api in nodejs with graphql and express.
+Api in nodejs with graphql and express.
 
 In this API you can allow to manage clients.
 
